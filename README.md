@@ -50,13 +50,13 @@ CREATE TABLE feedback (
 ### IV. SCREENSHOT
 ---
 1. dashboard.php
-    ![daftar_tamu](screenshots/dashboard.png)
+    ![dashboard](screenshots/dashboard.png)
 ---
 2. artikel.php
-    ![daftar_tamu](screenshots/artikel.png)
+    ![artikel](screenshots/artikel.png)
 ---
 3. feetback.php
-    ![form_tamu](screenshots/feedback.png)
+    ![feedback](screenshots/feedback.png)
 ---
 ## HOW TO USE
 ### 1. Restore database
