@@ -40,7 +40,7 @@ CREATE TABLE feedback (
 1. dashboard.php -> file utama yang akan diakses pertama kali oleh browser yang berisikan tampilan view untuk menampilkan jumlah artikel dan feedback.
 2. artikel.php -> file yang berisikan tampilan view untuk table daftar artikel.
 3. feedback.php -> file yang berisikan tampilan view untuk table daftar feedback.
-4. koneksi.php -> file untuk konfigurasi koneksi database (file ini menerapkan konsep reusable yang nantinya akan digunakan setiap kali kita membutuhkan koneksi database).
+4. database.php -> file untuk konfigurasi koneksi database (file ini menerapkan konsep reusable yang nantinya akan digunakan setiap kali kita membutuhkan koneksi database).
 5. Daftar Aksi
     1. CREATE
     2. READ
